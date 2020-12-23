@@ -1,4 +1,2 @@
 # JLCPCB-Christmas-Competition-PCB
-My submission of the JLCPCB 2020 Christmas competition
-The circuit is designed to use an ATMEGA328P-AU and has 8 sections of 5 LEDs.
-It takes in a MICRO USB input and was designed in the EasyEDA software.
+This is my submission to the 2020 JLCPCB Christmas Competition. I arranged several presents into a pile which can be put in front of other submissions resembling a christmas tree, but still act as its own PCB. It uses an ATMEGA328P to power 8 sections of 5 LEDs, two per present, and they can be any color wanted, and blink whenever programmed. I am happy to be using JLCPCB with their partner EasyEDA for my PCB, and their services are really some of the best. 
